@@ -6,3 +6,9 @@ crosstool-ng
 aesd-build
 .vscode/
 test.sh.log
+
+actions-runner/externals/node20_alpine/bin/node
+actions-runner/externals/node20/bin/node
+actions-runner/actions-runner-linux-x64-*.tar.g
+
+actions-runner/
